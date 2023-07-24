@@ -1,0 +1,84 @@
+body{
+  background-image: url("./фон.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+
+.App{
+  min-height: 80vh;
+  width: 400px;
+  margin: 50px auto;
+  background: rgba( 255, 255, 255, 0.1 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 7px );
+  -webkit-backdrop-filter: blur( 7px );
+  border-radius: 30px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+h1{
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 0;
+}
+
+.crossed {
+  text-decoration: line-through 2px #094ce9;
+  background-color: rgba( 255, 255, 255, 0.45 );
+  border-radius: 5px;
+  color: black;
+}
+
+ul, li{
+  font-family: 'Montserrat', sans-serif;
+  list-style-type: none;
+  padding: 5px;
+  margin: 5px;
+  margin-left: 3px;
+  margin-top: 5px;
+  color: #ffffff;
+  font-weight: 100;
+}
+
+.line{
+  margin-right: 10px;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+}
+
+.delete{
+  background: #094ce9;
+}
+
+.add{
+  background: #22da3a;
+}
+
+.btn{
+  padding: 10px;
+  border: none;
+  width: 100px;
+  border-radius: 10px;
+  margin: 5px;
+  color: white;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+input{
+  font-family: 'Montserrat', sans-serif;
+  flex: 1;
+  padding: 8px;
+  margin: 10px;
+  background: rgba( 255, 255, 255, 0.45 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 10px );
+  -webkit-backdrop-filter: blur( 10px );
+  border-radius: 5px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
