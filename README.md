@@ -1,5 +1,5 @@
 
-<h1  id="readme-top" align="center">Hi there, I'm Irina</a> 
+<h1  id="readme-top" align="center">Hi there, I'm Irina</h1> 
 <h1 align="center" a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=WEB+DEVELOPER+and+DESIGNER+from+ℕ𝕖𝕨-𝕐𝕠𝕣𝕜🐜"alt="Typing SVG"/a>
 <h2>Skills:</h2>
 <h3><img src="https://shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -16,4 +16,7 @@
 <h3><img src="https://shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-
+<h2>Contact:</h2>
+<p>
+<a href="mailto:tumchik1@gmail.com">email</a>
+</p>
