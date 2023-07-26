@@ -43,7 +43,6 @@ e.preventDefault()
 
     render(){
         return(
-            <div>
             <form onSubmit={this.onFormSubmit}>
             <div className="container">
                <input type="text"
@@ -68,10 +67,7 @@ e.preventDefault()
                     {item}</li> 
                 ))}
             </ul>
-            
-            </form>
-            </div>
-            
+            </form>   
         )
     }
 }
