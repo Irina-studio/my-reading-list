@@ -18,5 +18,5 @@
 <img src="https://shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <h2>Contact:</h2>
 <p>
-<a href="mailto:tumchik1@gmail.com">email</a>
+<a href="mailto:tumchik1@gmail.com">send email</a>
 </p>
