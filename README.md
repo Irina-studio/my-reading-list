@@ -12,7 +12,7 @@
 <h4>I am currently learning <img src="https://shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <h2>About The Project:</h2>
   <p>
-<a href="https://my-reading-list-books.netlify.app">see project</a>
+<a href="https://my-reading-list-books.netlify.app">view my project</a>
 </p>
 <p>My project is called "My-Reading-List". In it, you can write down the titles of books that you are going to read. After reading a book, you can cross it out in the list and then, if you wish, remove it from the list.</p>
 <h2>Built with:</h2>
